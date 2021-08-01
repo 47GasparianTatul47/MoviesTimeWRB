@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565715748668",
+    "firebase_url": "https://films-armenian.firebaseio.com",
+    "project_id": "films-armenian",
+    "storage_bucket": "films-armenian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565715748668:android:b11fc5de050251d2660039",
+        "android_client_info": {
+          "package_name": "com.example.filmsarmenian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565715748668-qsqqvau016u64k7u7guu7j1im8vs1tj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filmsarmenian",
+            "certificate_hash": "ffccf3a01c2ef6a3cf64884d0e082645f3caad25"
+          }
+        },
+        {
+          "client_id": "565715748668-njnh5kn8a6si1cbrgqcv20kik2rpgn17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1mh-lfPztGJ6woVC5MxG1LIZjM3SPGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565715748668-njnh5kn8a6si1cbrgqcv20kik2rpgn17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

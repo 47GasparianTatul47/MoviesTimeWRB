@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f0f0f</color>
+    <color name="colorPrimaryDark">#0f0f0f</color>
+    <color name="color_blue">#0f0f0f</color>
+    <color name="colorAccent">#ffa000</color>
+    <color name="color_red">#490000</color>
+    <color name="white">#fff</color>
+    <color name="light_green">#F3F1F1</color>
+    <color name="light_purple">#9B42CF</color>
+    <color name="purple">#31084D</color>
+    <color name="text_bg_blue">#090727</color>
+    <color name="player_bg">#000000</color>
+    <color name="shutter_bg">#000000</color>
+    <color name="video_player_bg">#000000</color>
+    <color name="light_medium_gray">#000000</color>
+    <color name="dark_green">#0d2f3b</color>
+    <color name="darkkk_green">#021118</color>
+    <color name="fon_color">#0f0f0f</color>
+    <color name="welcometxt">#C2C2C4</color>
+    <color name="blackkk">#0f0f0f</color>
+    <color name="toolbar_bg">#0f0f0f</color>
+    <color name="tablayuout">#272727</color>
+    <color name="dialog_fon_color">#0f0f0f</color>
+</resources>

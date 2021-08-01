@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widhtMovie">720dp</dimen>
+    <dimen name="height_Movie">480dp</dimen>
+
+    <dimen name="freame_height">300dp</dimen>
+</resources>
